@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #eef2ff;
+    background: #dbeafe;
     color: #1e293b;
     min-height: 100vh;
     display: flex;
@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-    color: #4338ca;
+    color: #1d4ed8;
     margin-bottom: 18px;
 }
 
